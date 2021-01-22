@@ -9,3 +9,8 @@ div {
 #black {
   background-color: black;
 }
+aside {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
