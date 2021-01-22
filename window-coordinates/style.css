@@ -1,0 +1,11 @@
+div {
+  display: block;
+  width: 250px;
+  height: 250px;
+  background-color: aquamarine;
+  margin: 15px;
+}
+
+#black {
+  background-color: black;
+}
