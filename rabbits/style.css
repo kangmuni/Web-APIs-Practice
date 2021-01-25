@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(155, 93, 57);
+  text-align: center;
+}
+
+img {
+  margin: auto;
+}
+
+.btn {
+  outline: none;
+  font-size: large;
+  padding: 10px;
+  cursor: pointer;
+  background-color: rgb(250, 250, 249);
+  margin: 10px;
+}
+
+.carrot {
+  display: block;
+}
